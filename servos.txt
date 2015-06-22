@@ -1,0 +1,6 @@
+Pino 11 -	01 (Servo 6)
+Pino 10	-	02 (Servo 5)
+Pino 9	-	04 (Servo 
+Pino 6 	-	C2 (Servo 11)	-	C4 (Servo 3)
+Pino 5	-	C1 (Servo 9)	-	C3 (Servo 10)
+Pino 3	-	03 (Servo 
